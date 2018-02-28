@@ -1,0 +1,22 @@
+elpa
+session*
+recentf
+tramp
+bookmarks
+
+# Compiled
+*.elc
+
+# Packaging
+.cask
+
+*.desktop
+
+*~
+*#
+*lock
+*log
+
+image-dired
+.#session*
+ac-comphist.dat
